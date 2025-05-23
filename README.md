@@ -7,8 +7,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srikrishnamurthy-naidu)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/srikrishnamurthynaidu)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@example.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rskmn7734@gmail.com)
 </div>
 
 ## 🚀 About Me
@@ -21,7 +20,7 @@ I build intelligent systems that address real-world challenges in healthcare, fi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikrishnamurthynaidu&theme=react&hide_border=false" alt="GitHub Streak Stats" />
 </div> -->
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies that I've worked on
 
 <div align="center">
   
@@ -77,10 +76,10 @@ I build intelligent systems that address real-world challenges in healthcare, fi
             <img src="https://via.placeholder.com/300x180?text=Faux+Therapist" width="300" alt="Faux Therapist Project"/>
           </a>
           <p>
-            <a href="https://github.com/yourusername/faux-therapist" target="_blank">
+            <a href="https://github.com/RSKMN/Project_expo" target="_blank">
               <img src="https://img.shields.io/badge/Code-3d85c6?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
-            <a href="https://yourusername.github.io/faux-therapist" target="_blank">
+            <a href="https://github.com/RSKMN/Project_expo" target="_blank">
               <img src="https://img.shields.io/badge/Demo-6aa84f?style=for-the-badge&logo=riseup&logoColor=white"/>
             </a>
           </p>
@@ -90,14 +89,14 @@ I build intelligent systems that address real-world challenges in healthcare, fi
       <td width="50%">
         <h3 align="center">🧪 Virtual Lab Chemistry</h3>
         <div align="center">
-          <a href="https://github.com/yourusername/vlab-chem" target="_blank">
+          <a href="https://github.com/RSKMN/vlab-chem" target="_blank">
             <img src="https://via.placeholder.com/300x180?text=Virtual+Lab+Chemistry" width="300" alt="Virtual Lab Chemistry Project"/>
           </a>
           <p>
-            <a href="https://github.com/yourusername/vlab-chem" target="_blank">
+            <a href="https://github.com/RSKMN/vlab-chem" target="_blank">
               <img src="https://img.shields.io/badge/Code-3d85c6?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
-            <a href="https://yourusername.github.io/vlab-chem" target="_blank">
+            <a href="https://github.com/RSKMN/vlab-chem" target="_blank">
               <img src="https://img.shields.io/badge/Demo-6aa84f?style=for-the-badge&logo=riseup&logoColor=white"/>
             </a>
           </p>
@@ -109,14 +108,14 @@ I build intelligent systems that address real-world challenges in healthcare, fi
       <td width="50%">
         <h3 align="center">🔗 Product Ingredient Verifier</h3>
         <div align="center">
-          <a href="https://github.com/yourusername/product-verifier" target="_blank">
+          <a href="https://github.com/RSKMN/SafeLabel" target="_blank">
             <img src="https://via.placeholder.com/300x180?text=Product+Ingredient+Verifier" width="300" alt="Product Ingredient Verifier"/>
           </a>
           <p>
-            <a href="https://github.com/yourusername/product-verifier" target="_blank">
+            <a href="https://github.com/RSKMN/SafeLabel" target="_blank">
               <img src="https://img.shields.io/badge/Code-3d85c6?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
-            <a href="https://yourusername.github.io/product-verifier" target="_blank">
+            <a href="https://github.com/RSKMN/SafeLabel" target="_blank">
               <img src="https://img.shields.io/badge/Demo-6aa84f?style=for-the-badge&logo=riseup&logoColor=white"/>
             </a>
           </p>
@@ -126,14 +125,14 @@ I build intelligent systems that address real-world challenges in healthcare, fi
       <td width="50%">
         <h3 align="center">📡 Poseidon</h3>
         <div align="center">
-          <a href="https://github.com/yourusername/poseidon" target="_blank">
+          <a href="https://github.com/RSKMN/elementa/tree/main/poseidon" target="_blank">
             <img src="https://via.placeholder.com/300x180?text=Poseidon" width="300" alt="Poseidon Project"/>
           </a>
           <p>
-            <a href="https://github.com/yourusername/poseidon" target="_blank">
+            <a href="https://github.com/RSKMN/elementa/tree/main/poseidon" target="_blank">
               <img src="https://img.shields.io/badge/Code-3d85c6?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
-            <a href="https://yourusername.github.io/poseidon" target="_blank">
+            <a href="https://github.com/RSKMN/elementa/tree/main/poseidon" target="_blank">
               <img src="https://img.shields.io/badge/Demo-6aa84f?style=for-the-badge&logo=riseup&logoColor=white"/>
             </a>
           </p>
@@ -183,8 +182,8 @@ I build intelligent systems that address real-world challenges in healthcare, fi
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srikrishnamurthynaidu&theme=react&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikrishnamurthynaidu&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RSKMN&theme=react&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSKMNu&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🌱 Currently Learning
@@ -200,13 +199,13 @@ I build intelligent systems that address real-world challenges in healthcare, fi
 I'm always open to collaborating on innovative projects and research opportunities. Feel free to reach out if you're interested in working together or just want to chat about technology!
 
 <div align="center">
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:rskmn7734@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/srikrishnamurthy-naidu">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/srikrishnamurthynaidu">
+  <a href="https://github.com/RSKMN">
     <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
@@ -214,5 +213,5 @@ I'm always open to collaborating on innovative projects and research opportuniti
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=srikrishnamurthynaidu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RSKMN&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
